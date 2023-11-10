@@ -1,7 +1,7 @@
 <h1 align="center">¡Hola! 👋, soy Jordi Rodriguez</h1>
-<h3 align="center">Soy arquitecto y profesor.  
-  Disfruto enseñando y aprendiendo. Mis hobbies son la programación, la robótica, el dibujo y las matemáticas.</h3>
-
+<h3 align="center">Soy arquitecto y profesor. Disfruto enseñando y aprendiendo.</h3>
+<h3 align="center">Mis hobbies son la programación, la robótica, el dibujo y las matemáticas.</h3>
+    
 - 🔭 Actualmente trabajando en [Arduino Linefollower](https://github.com/jordirdp/Arduino-linefollower.git)
 
 - 🌱 Estoy estudiando **Inteligencia Artificial**
