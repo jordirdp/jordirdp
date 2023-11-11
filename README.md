@@ -1,7 +1,7 @@
 <h1 align="center">¡Hola! 👋, soy Jordi Rodriguez</h1>
 <h3 align="center">Soy arquitecto y profesor en el Instituto Anna Gironella de Mundet. Disfruto enseñando y aprendiendo, mientras combino mis conocimientos de programación, robótica, dibujo y matemáticas con mi pasión docente.</h3>
     
-- 🔭 Actualmente trabajando en [Arduino Linefollower](https://github.com/jordirdp/Arduino-linefollower.git)
+- 🔭 Actualmente trabajando en [Arduino Roboline](https://github.com/jordirdp/Arduino-Roboline.git)
 
 - 🌱 Estoy estudiando **Inteligencia Artificial**
 
