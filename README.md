@@ -5,7 +5,7 @@
 
 - 🌱 Estoy estudiando **Inteligencia Artificial**
 
-- 👨‍💻 Mis proyectos están disponibles en [https://github.com/jordirdp](https://github.com/jordirdp?tab=repositories)
+- 👨‍💻 Mis proyectos están disponibles en [https://github.com/jordirdp/repositories](https://github.com/jordirdp?tab=repositories)
 
 - 📄 Puedes saber un poco más de mí en [https://linktr.ee/jordi_rdp](https://linktr.ee/jordi_rdp)
 
