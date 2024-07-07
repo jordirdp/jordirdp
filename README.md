@@ -1,5 +1,5 @@
 <h1 align="center">¡Hola! 👋, soy Jordi Rodriguez</h1>
-<h3 align="center">Disfruto enseñando y aprendiendo, mientras combino mis conocimientos de programación, robótica, dibujo y matemáticas con mi pasión docente.</h3>
+<h3 align="center">Disfruto enseñando y aprendiendo, mientras combino mis conocimientos de Programación, Robótica, Dibujo y Matemáticas con mi pasión docente.</h3>
     
 - 🔭 Actualmente trabajando en **Robots de competición**
 
