@@ -10,6 +10,9 @@
 - 📄 Puedes saber un poco más de mí en [https://linktr.ee/jordi_rdp](https://linktr.ee/jordi_rdp)
 
 
+
+
+
 <h3 align="left">Lenguajes y herramientas que uso:</h3>
 <p align="left">
 <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/></a>
