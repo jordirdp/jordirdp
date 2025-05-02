@@ -60,4 +60,5 @@ Apasionado por la enseñanza y el aprendizaje, combino mis conocimientos en **Pr
 
 ## ⚖️ Licencia
 
-Todos los proyectos están distribuidos bajo la licencia **GPL-3.0**, salvo indicación expresa. Las referencias y librerías empleadas están sujetas a sus propias licencias y no se incluyen en estos repositorios.
+Todos los proyectos están distribuidos bajo la licencia **GPL-3.0**, salvo indicación expresa.   
+Las referencias y librerías empleadas están sujetas a sus propias licencias y no se incluyen en estos repositorios.
