@@ -19,10 +19,13 @@ Apasionado por la enseñanza y el aprendizaje, combino mis conocimientos en **Pr
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?logo=arduino&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-C51A4A?logo=raspberry-pi&logoColor=white)
 ![ESP32](https://img.shields.io/badge/ESP32-303030?style=flat&logo=espressif&logoColor=white)   
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?logo=visual-studio-code&logoColor=white)
 ![PlatformIO](https://img.shields.io/badge/PlatformIO-FF6600?logo=platformio&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+[![ArduinoBlocks](https://img.shields.io/badge/ArduinoBlocks-00979D?style=flat&logo=arduino&logoColor=white)](https://www.arduinoblocks.com/)
+[![OttoBlockly](https://img.shields.io/badge/OttoBlockly-FF6F00?style=flat&logo=google&logoColor=white)](https://ottodiy.github.io/blockly/)
+
 
 
 ## 📚 Índice de Repositorios
