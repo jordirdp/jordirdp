@@ -6,7 +6,7 @@ Apasionado por la enseñanza y el aprendizaje, combino mis conocimientos en **Pr
 
 - 🧬 Estoy estudiando **Inteligencia Artificial**
 
-- 📂 Mis proyectos están disponibles en [Mis Repositorios](https://github.com/jordirdp?tab=repositories)
+- 📂 Mis proyectos están disponibles en [Mis Repositorios](https://github.com/jordirdp?tab=repositories) 
 
 - 🌐 Puedes saber un poco más de mí en [Linktr.ee/jordi_rdp](https://linktr.ee/jordi_rdp)
 
