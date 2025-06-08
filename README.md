@@ -28,7 +28,7 @@ Apasionado por la enseñanza y el aprendizaje, combino mis conocimientos en **Pr
 
 
 
-## 📚 Índice de Repositorios
+## 📚 Índice de Repositorios 
 
 ### 🚗 Smartcar
 **Descripción:** Plataforma Arduino con 2 o 4 ruedas, leds, buzzer, pantalla LCD, sensores infrarrojos, de ultrasonido y de luminosidad para iniciarse en la programación de vehículos.
