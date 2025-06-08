@@ -38,8 +38,12 @@ Apasionado por la enseñanza y el aprendizaje, combino mis conocimientos en **Pr
 - [Smart4car_test](https://github.com/jordirdp/Smart4car_test): Programación modular
 - [Smart4car_linea](https://github.com/jordirdp/Smart4car_test): Programación Orientada a Objetos
 
+### 🛺 3DBot
+**Descripción:** Plataforma robótica de Innova Didactic para aprendizaje de programación básica mediante bloques utilizando SteamakersBlocks.
+- [3DBot_test](https://github.com/jordirdp/3DBot_test): Test de hardware con programación por bloques
+
 ### 🤖 Otto
-**Descripción:** Plataforma robótica Arduino para iniciarse en el movimiento combinado de varios ejes., utilizando bloques mediante OttoBlockly.  
+**Descripción:** Plataforma robótica Arduino para iniciarse en el movimiento combinado de varios ejes, utilizando programación con bloques mediante OttoBlockly.  
 - [Otto_starter](https://github.com/jordirdp/Otto_starter): Robot Otto Starter con programación por bloques
 - [Otto_calibra](https://github.com/jordirdp/Otto_calibra): Utilidad para calibración de servos en robot Otto
 
@@ -49,10 +53,6 @@ Apasionado por la enseñanza y el aprendizaje, combino mis conocimientos en **Pr
 - [Led_Tira](https://github.com/jordirdp/Led_Tira): Control de tiras de led RGB mediante Arduino
 - [Led_Rueda](https://github.com/jordirdp/Led_Rueda): Control de anillos Led mediante Arduino
 - [Led_Matriz](https://github.com/jordirdp/Led_Matriz): Control de matrices LED 8x8 mediante Arduino
-
-### 🛺 3DBot
-**Descripción:** Plataforma robótica de Innova Didactic para aprendizaje de programación básica mediante bloques utilizando ArduinoBlocks.
-- [3DBot_test](https://github.com/jordirdp/3DBot_test): Test de hardware con programación por bloques
 
 ### 🎛️ Osciloscopio
 **Descripción:** Representación y modificación de señales de Arduino utilizando un Osciloscopio.
