@@ -27,7 +27,6 @@ Apasionado por la enseñanza y el aprendizaje, combino mis conocimientos en **Pr
 [![SteamakerBlocks](https://img.shields.io/badge/Steamakersblocks-00979D?style=flat&logo=arduino&logoColor=white)](https://www.steamakersblocks.com/)
 [![OttoBlockly](https://img.shields.io/badge/OttoBlockly-FF6F00?style=flat&logo=google&logoColor=white)](https://ottodiy.github.io/blockly/)
 
-   
 
 ## 📚 Índice de Repositorios
 
