@@ -23,7 +23,7 @@ Apasionado por la enseñanza y el aprendizaje, combino mis conocimientos en **Pr
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?logo=visual-studio-code&logoColor=white)
 ![PlatformIO](https://img.shields.io/badge/PlatformIO-FF6600?logo=platformio&logoColor=white)
-[![ArduinoBlocks](https://img.shields.io/badge/ArduinoBlocks-00979D?style=flat&logo=arduino&logoColor=white)](https://www.arduinoblocks.com/)
+[![SteamakerBlocks](https://img.shields.io/badge/Steamakersblocks-00979D?style=flat&logo=arduino&logoColor=white)](https://www.steamakersblocks.com/)
 [![OttoBlockly](https://img.shields.io/badge/OttoBlockly-FF6F00?style=flat&logo=google&logoColor=white)](https://ottodiy.github.io/blockly/)
 
 
