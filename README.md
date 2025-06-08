@@ -1,4 +1,4 @@
-# 👨🏽‍💻 ¡Hola! Soy Jordi Rodriguez 
+# 👨🏽‍💻 ¡Hola! Soy Jordi Rodriguez
 
 Apasionado por la enseñanza y el aprendizaje, combino mis conocimientos en **Programación**, **Robótica** y **Matemáticas** con mi vocación docente.
     
