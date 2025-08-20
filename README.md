@@ -14,20 +14,28 @@ Apasionado por la enseñanza y el aprendizaje, combino mis conocimientos en **Pr
 
 ## 🛠️ Lenguajes y Herramientas que uso
 
-![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)   
+
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)   
+
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?logo=arduino&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-C51A4A?logo=raspberry-pi&logoColor=white)
-![ESP32](https://img.shields.io/badge/ESP32-303030?style=flat&logo=espressif&logoColor=white)   
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?logo=visual-studio-code&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
-![PlatformIO](https://img.shields.io/badge/PlatformIO-FF6600?logo=platformio&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-303030?style=flat&logo=espressif&logoColor=white)
 [![SteamakerBlocks](https://img.shields.io/badge/Steamakersblocks-00979D?style=flat&logo=arduino&logoColor=white)](https://www.steamakersblocks.com/)
-[![OttoBlockly](https://img.shields.io/badge/OttoBlockly-FF6F00?style=flat&logo=google&logoColor=white)](https://ottodiy.github.io/blockly/)
+[![OttoBlockly](https://img.shields.io/badge/OttoBlockly-FF6F00?style=flat&logo=google&logoColor=white)](https://ottodiy.github.io/blockly/)   
+
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)   
+
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![PlatformIO](https://img.shields.io/badge/PlatformIO-%23222.svg?style=for-the-badge&logo=platformio&logoColor=%23f5822a)
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+
+
 
 
 ## 📚 Índice de Repositorios
