@@ -1,77 +1,83 @@
 # 👨🏽‍💻 ¡Hola! Soy Jordi Rodriguez
 
-Apasionado por la enseñanza y el aprendizaje, combino mis conocimientos en **Programación**, **Robótica** y **Matemáticas** con mi vocación docente.
-    
-- 🤖 Actualmente trabajando en **Robots de competición**
 
-- 🧬 Estoy estudiando **Inteligencia Artificial**
+Soy profesor de Matemáticas y desarrollador de herramientas basadas en Python para la automatización, la extracción de datos y el análisis de datos en contextos educativos.
 
-- 📂 Mis proyectos están disponibles en [Mis Repositorios](https://github.com/jordirdp?tab=repositories)
+Actualmente centro mi trabajo en crear **scripts y pequeñas aplicaciones** que ayuden a simplificar procesos académicos y de gestión, especialmente en áreas como:
 
-- 🌐 Puedes saber un poco más de mí en [Linktr.ee/jordi_rdp](https://linktr.ee/jordi_rdp)
+- extracción de datos desde plataformas académicas
+- generación de informes
+- automatización de tareas repetitivas
+- análisis de datos para la toma de decisiones
+- herramientas educativas asistidas por IA
 
+Me interesa especialmente la intersección entre:
 
+**Python + automatización + análisis de datos + educación**
 
 ## 🛠️ Lenguajes y Herramientas que uso
 
-
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)   
-
-![Arduino](https://img.shields.io/badge/Arduino-00979D?logo=arduino&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-C51A4A?logo=raspberry-pi&logoColor=white)
-![ESP32](https://img.shields.io/badge/ESP32-303030?style=flat&logo=espressif&logoColor=white)
-[![SteamakerBlocks](https://img.shields.io/badge/Steamakersblocks-00979D?style=flat&logo=arduino&logoColor=white)](https://www.steamakersblocks.com/)
-[![OttoBlockly](https://img.shields.io/badge/OttoBlockly-FF6F00?style=flat&logo=google&logoColor=white)](https://ottodiy.github.io/blockly/)   
-
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)   
-
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![PlatformIO](https://img.shields.io/badge/PlatformIO-%23222.svg?style=for-the-badge&logo=platformio&logoColor=%23f5822a)
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Power Automate](https://img.shields.io/badge/Power%20Automate-0066FF?style=for-the-badge&logo=powerautomate&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![Git](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-121011?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 
 
+## 🧩 En qué estoy trabajando ahora
 
-## 📚 Índice de Repositorios
+En esta etapa, mi trabajo gira sobre todo en torno a:
 
-### 🚗 Smartcar
-**Descripción:** Plataforma Arduino con 2 o 4 ruedas, leds, buzzer, pantalla LCD, sensores infrarrojos, de ultrasonido y de luminosidad para iniciarse en la programación de vehículos.
-- [Smart2car_test](https://github.com/jordirdp/Smart2car_test): Test de hardware con programación por bloques
-- [Smart2car_basic](https://github.com/jordirdp/Smart2car_basic): Programación básica estructurada
-- [Smart2car_auto](https://github.com/jordirdp/Smart2car_auto): Programación modular
-- [Smart4car_test](https://github.com/jordirdp/Smart4car_test): Programación modular
-- [Smart4car_linea](https://github.com/jordirdp/Smart4car_test): Programación Orientada a Objetos
+- **Python**
+- **APIs y extracción de datos**
+- **Automatización de procesos**
+- **Análisis de datos**
+- **Flujos de trabajo educativos**
+- **Herramientas con IA / GPT**
 
-### 🛺 3DBot
-**Descripción:** Plataforma robótica de Innova Didactic para aprendizaje de programación básica mediante bloques utilizando SteamakersBlocks.
-- [3DBot_test](https://github.com/jordirdp/3DBot_test): Test de hardware con programación por bloques
+## 🧬 Líneas principales de desarrollo
 
-### 🤖 Otto
-**Descripción:** Plataforma robótica Arduino para iniciarse en el movimiento combinado de varios ejes, utilizando programación con bloques mediante OttoBlockly.  
-- [Otto_starter](https://github.com/jordirdp/Otto_starter): Robot Otto Starter con programación por bloques
-- [Otto_calibra](https://github.com/jordirdp/Otto_calibra): Utilidad para calibración de servos en robot Otto
+### 1. Flujos de datos académicos
+Desarrollo proyectos orientados a extraer, organizar y procesar información académica de forma estructurada y reutilizable. 
+Ejemplos de este tipo de trabajo:
+- scripts de extracción de calificaciones
+- herramientas de recogida de datos por clase o curso
+- procesos de exportación para análisis posterior
+- automatización de informes escolares
 
-### 🏠 Domótica
-**Descripción:** Proyectos para practicar el control de varios sensores y sus actuadores, así como el control de tiras de leds. 
-- [Casa_Domotica](https://github.com/jordirdp/Casa_Domotica): Maqueta de casa para control domótico con Arduino. Incluye control de luces, climatización y seguridad.
-- [Led_Tira](https://github.com/jordirdp/Led_Tira): Control de tiras de led RGB mediante Arduino
-- [Led_Rueda](https://github.com/jordirdp/Led_Rueda): Control de anillos Led mediante Arduino
-- [Led_Matriz](https://github.com/jordirdp/Led_Matriz): Control de matrices LED 8x8 mediante Arduino
+### 2. Automatización educativa
+Creo herramientas pensadas para reducir trabajo manual repetitivo y mejorar la consistencia de determinados procesos internos. 
+Ejemplos:
+- automatización de flujos basados en archivos
+- generación estructurada de informes
+- scripts reutilizables para tareas internas de un centro educativo
 
-### 🎛️ Osciloscopio
-**Descripción:** Representación y modificación de señales de Arduino utilizando un Osciloscopio.
-- [Arduino-Osciloscopio_BonNadal](https://github.com/jordirdp/Arduino-Osciloscopio_BonNadal): Dibujo de letras para mensaje navideño
-- [Arduino-Osciloscopio_AGMundet](https://github.com/jordirdp/Arduino-Osciloscopio_AGMundet): Dibujo de letras y logo de AGMundet
-- [Arduino-Osciloscopio_Arbre_BonNadal](https://github.com/jordirdp/Arduino-Osciloscopio_Arbre_BonNadal): Dibujo de formas navideñas
+### 3. Herramientas de revisión asistidas por IA
+También exploro soluciones que combinan documentos, instrucciones estructuradas y lógica de flujo de trabajo para apoyar procesos de revisión y mejora en el ámbito educativo.
+
+## 📂 Trayectoria previa
+
+Antes de centrarme principalmente en Python, automatización y análisis de datos, trabajé en distintos proyectos relacionados con:
+
+- **Arduino**
+- **Robótica**
+- **Sistemas embebidos**
+- **Prototipos electrónicos educativos**
+
+Esos proyectos siguen formando parte de este perfil y representan una etapa importante de mi recorrido técnico. Además, han influido mucho en mi forma de trabajar: práctica, estructurada y orientada a resolver problemas reales.
 
 
-## ⚖️ Licencia
+## 📚 Tecnologías y áreas de interés
 
-Todos los proyectos están distribuidos bajo la licencia **GPL-3.0**, salvo indicación expresa.   
-Las referencias y librerías empleadas están sujetas a sus propias licencias y no se incluyen en estos repositorios.
+- Python
+- Git y GitHub
+- APIs REST
+- flujos de trabajo con Excel
+- procesamiento de datos con PowerBI
+- diseño de prompts para herramientas de IA
+- automatización aplicada a entornos educativos
+
