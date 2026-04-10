@@ -1,7 +1,7 @@
 # 👨🏽‍💻 ¡Hola! Soy Jordi Rodriguez
 
 
-Soy profesor de Matemáticas y desarrollador de herramientas basadas en Python para la automatización, la extracción de datos y el análisis de datos en contextos educativos.
+Soy profesor de Matemáticas y desarrollador de herramientas basadas en Python para la automatización, la extracción de datos y el análisis en contextos educativos.
 
 Actualmente centro mi trabajo en crear **scripts y pequeñas aplicaciones** que ayuden a simplificar procesos académicos y de gestión, especialmente en áreas como:
 
