@@ -106,18 +106,3 @@ Estos proyectos siguen formando parte de mi perfil y representan una etapa impor
 * diseño de prompts y asistentes GPT
 * personalización del aprendizaje
 * mejora pedagógica basada en datos
-
-## 🎯 Objetivo actual
-
-Mi objetivo es seguir desarrollando y explorando herramientas que conecten la tecnología con necesidades educativas reales.
-
-Especialmente, me interesa construir soluciones que ayuden a:
-
-* mejorar el seguimiento del alumnado
-* apoyar la personalización del aprendizaje
-* reducir carga operativa del profesorado
-* facilitar el análisis de datos académicos
-* mejorar procesos de coordinación y toma de decisiones
-* integrar la IA de forma responsable, útil y pedagógicamente sólida
-
-Gracias por visitar mi perfil.
