@@ -1,108 +1,45 @@
-# 👨🏽‍💻 ¡Hola! Soy Jordi Rodriguez
+<div align="center">
 
-Soy **Coordinador Académico** y **AI Project Manager** en un entorno educativo internacional, con especial interés en el uso de **Python**, los **datos** y la **inteligencia artificial** para mejorar procesos académicos, apoyar al profesorado y explorar nuevas formas de **personalización del aprendizaje**.
+# Jordi Rodriguez
 
-Mi trabajo se sitúa en la intersección entre:
+### Coordinador Académico · AI Project Manager
 
-**educación + datos + automatización + inteligencia artificial**
+Desarrollo soluciones educativas combinando **datos, automatización e inteligencia artificial**.
 
-Actualmente desarrollo scripts, pequeñas aplicaciones y flujos de trabajo que ayudan a transformar necesidades reales del entorno escolar en soluciones prácticas, sostenibles y reutilizables.
+</div>
 
-## 🛠️ Lenguajes y herramientas que uso
+---
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge\&logo=python\&logoColor=ffdd54)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge\&logo=powerbi\&logoColor=black)
-![Power Automate](https://img.shields.io/badge/Power%20Automate-0066FF?style=for-the-badge\&logo=powerautomate\&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge\&logo=microsoftexcel\&logoColor=white)
-![Git](https://img.shields.io/badge/git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-121011?style=for-the-badge\&logo=github\&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge\&logo=visualstudiocode\&logoColor=white)
+### ⚡ Áreas de trabajo
 
-## 🧭 En qué estoy trabajando ahora
+```text
+Aprendizaje personalizado  →  IA aplicada al apoyo y progreso del alumnado
+Datos académicos           →  Análisis, visualización y toma de decisiones
+Automatización             →  Procesos y herramientas para entornos educativos
+Aplicaciones               →  Soluciones prácticas orientadas a necesidades reales
+```
 
-En esta etapa, mi trabajo se articula principalmente en torno a tres líneas:
+### 🛠️ Stack
 
-### 1. IA para el aprendizaje personalizado
+<div align="center">
 
-Me interesa especialmente cómo la inteligencia artificial puede ayudar a ofrecer un acompañamiento más individualizado al alumnado.
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Power Automate](https://img.shields.io/badge/Power%20Automate-0066FF?style=for-the-badge&logo=powerautomate&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
-Algunas líneas de exploración:
+</div>
 
-* apoyo personalizado al aprendizaje
-* detección de necesidades de refuerzo
-* generación de feedback formativo
-* seguimiento del progreso académico
-* herramientas que ayuden al alumnado a aprender a su propio ritmo
-* uso responsable y crítico de la IA en contextos educativos
+---
 
-### 2. IA y automatización para el profesorado
+<div align="center">
 
-Desarrollo y exploro herramientas que puedan reducir tareas repetitivas y ayudar al profesorado a centrarse más en la enseñanza, el acompañamiento y la toma de decisiones pedagógicas.
+### 🌐 [Portfolio y proyectos →](https://jordirdp.github.io)
 
-Ejemplos de trabajo:
+Más información sobre mi trabajo, proyectos y líneas de desarrollo.
 
-* revisión asistida de documentos académicos
-* generación estructurada de informes
-* automatización de tareas administrativas
-* apoyo en procesos de planificación y evaluación
-* diseño de flujos de trabajo con IA y herramientas digitales
-
-### 3. Datos académicos y toma de decisiones
-
-También trabajo en soluciones orientadas a extraer, organizar y analizar información académica de forma útil para la coordinación, el seguimiento del alumnado y la mejora de procesos escolares.
-
-Ejemplos de este tipo de trabajo:
-
-* scripts de extracción de datos desde plataformas académicas
-* análisis de calificaciones y progreso
-* automatización de exportaciones
-* creación de informes y dashboards
-* uso de Excel y Power BI para análisis educativo
-
-## 🤖 Inteligencia artificial aplicada a la educación
-
-Como AI Project Manager, mi objetivo no es solo incorporar herramientas de IA, sino ayudar a construir una visión coherente, responsable y pedagógicamente útil sobre su uso en la escuela.
-
-Me interesan especialmente tres ámbitos:
-
-* **Alumnado:** IA como apoyo al aprendizaje, la personalización, el feedback y el desarrollo de competencias digitales.
-* **Profesorado:** IA como herramienta para ahorrar tiempo, mejorar procesos y enriquecer la práctica docente.
-* **Centro educativo:** IA como palanca para mejorar la organización académica, el análisis de datos y la toma de decisiones.
-
-## 📊 Datos, automatización y educación
-
-Muchos de mis proyectos nacen de necesidades reales del día a día escolar: obtener datos de forma más eficiente, analizarlos mejor, reducir procesos manuales o generar información útil para equipos docentes y coordinadores.
-
-Mi enfoque es práctico:
-
-* identificar una necesidad real
-* diseñar una solución sencilla y mantenible
-* automatizar cuando tiene sentido
-* analizar datos con finalidad pedagógica
-* documentar los procesos para que puedan escalarse o reutilizarse
-
-## 📂 Trayectoria previa
-
-Antes de centrarme principalmente en Python, automatización, datos e inteligencia artificial, trabajé en distintos proyectos relacionados con:
-
-* **Arduino**
-* **robótica**
-* **sistemas embebidos**
-* **prototipos electrónicos educativos**
-
-Estos proyectos siguen formando parte de mi perfil y representan una etapa importante de mi recorrido técnico. También han influido en mi forma de trabajar: práctica, estructurada y orientada a resolver problemas reales.
-
-## 📚 Tecnologías y áreas de interés
-
-* Python
-* Git y GitHub
-* APIs REST
-* Excel
-* Power BI
-* Power Automate
-* análisis de datos educativos
-* automatización de procesos académicos
-* inteligencia artificial aplicada a la educación
-* diseño de prompts y asistentes GPT
-* personalización del aprendizaje
-* mejora pedagógica basada en datos
+</div>
