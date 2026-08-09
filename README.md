@@ -12,12 +12,12 @@ Desarrollo soluciones educativas combinando **datos, automatización e inteligen
 
 ### ⚡ Áreas de trabajo
 
-```text
-Aprendizaje personalizado  →  IA aplicada al apoyo y progreso del alumnado
-Datos académicos           →  Análisis, visualización y toma de decisiones
-Automatización             →  Procesos y herramientas para entornos educativos
-Aplicaciones               →  Soluciones prácticas orientadas a necesidades reales
-```
+| Área | Enfoque |
+|---|---|
+| Aprendizaje personalizado | IA aplicada al apoyo y progreso del alumnado |
+| Datos académicos | Análisis, visualización y toma de decisiones |
+| Automatización | Procesos y herramientas para entornos educativos |
+| Aplicaciones | Soluciones prácticas orientadas a necesidades reales |
 
 ### 🛠️ Stack
 
