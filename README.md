@@ -4,7 +4,7 @@
 
 ### Coordinador Académico · AI Project Manager
 
-Desarrollo soluciones educativas combinando **datos, automatización e inteligencia artificial**.
+Desarrollo **aplicaciones y soluciones educativas** combinando datos, automatización e inteligencia artificial.
 
 </div>
 
@@ -19,11 +19,11 @@ Desarrollo soluciones educativas combinando **datos, automatización e inteligen
 | Aprendizaje personalizado | IA aplicada al apoyo y progreso del alumnado |
 | Datos académicos | Análisis, visualización y toma de decisiones |
 | Automatización | Procesos y herramientas para entornos educativos |
-| Aplicaciones | Soluciones prácticas orientadas a necesidades reales |
+| Aplicaciones educativas | Desarrollo de soluciones digitales para necesidades reales de los centros |
 
 </div>
 
-### 🛠️ Stack
+### 🛠️ Tecnologías
 
 <div align="center">
 
