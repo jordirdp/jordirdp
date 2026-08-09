@@ -23,7 +23,7 @@ Desarrollo **aplicaciones y soluciones educativas** combinando datos, automatiza
 
 </div>
 
-### 🛠️ Stack
+### 🛠️ Tecnologías
 
 <div align="center">
 
